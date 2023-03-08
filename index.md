@@ -1,5 +1,5 @@
 # Nom du projet
-
+La propagatiion des ondes sonores dans l'eau
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
 ## English version
@@ -7,7 +7,7 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 
 ## Présentation de l'équipe
-
+SHAIN,GLORIA,BRENNOE 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
 | P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
